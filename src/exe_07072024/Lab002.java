@@ -6,6 +6,12 @@ public class Lab002 {
         // this program not get any output it only showing that we can use comment like this in program
         //it is for dev or QA to understand what is going on
 
+        /*
+        *
+        *
+        *
+        * Multiple comments
+         */
     }
 
 }
