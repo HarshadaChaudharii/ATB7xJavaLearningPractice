@@ -6,11 +6,11 @@ public class Lab021 {
 //        int b= 34;
 //        System.out.println(a+b);
 //
-//        String s1 = "PRamod";
-//        String s2 = "Dutta";
+//        String s1 = "harshada";
+//        String s2 = "chaudhari";
 //        System.out.println(s1+s2);
 
-        String s3 = "Amit";
+        String s3 = "harshu";
         int x = 99;
         int y = 100;
 
