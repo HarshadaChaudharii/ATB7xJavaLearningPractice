@@ -32,13 +32,14 @@ public class Lab089 {
 
         }
 
-        /* switch (user_input){
-            case 'a','i','o','u','e':
+        switch (user_input) {
+            case 'a', 'i', 'o', 'u', 'e':
                 System.out.println("Vowel");
                 break;
             default:
-                System.out.println("Not a Vowel, It it Consonant");*/
+                System.out.println("Not a Vowel, It it Consonant");
 
         }
     }
 
+}
